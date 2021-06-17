@@ -1,0 +1,14 @@
+table {
+  width: 100%;
+}
+.delete > i {
+  color: red;
+  font-size: 20px;
+}
+.editar {
+  margin-right: 10px;
+}
+.editar > i {
+  color: #d9cd26;
+  font-size: 20px;
+}
